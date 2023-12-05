@@ -4,6 +4,7 @@
 - 📫 How to reach me :
   - Email: quangdatltw@gmail.com
   - Facebook(Meta): https://www.facebook.com/kankaiwa/
+  - Discord: @Raki#6607
 - ❔ Tech field: I... haven't decided myself..
 <!---
 quangdatltw/quangdatltw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

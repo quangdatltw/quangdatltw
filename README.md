@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Rhaki
+- 👋 Hi, I’m @Raki
 - 👀 I'm interested in anime and games, specifically the Ar tonelico series.
 - 🌱 I'm currently learning... anything that is useful to me?
 - 📫 How to reach me :

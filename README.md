@@ -5,8 +5,8 @@
   - Discord: @Raki#6607
 #### 📈 My GitHub Stats
 <p align="left">
-<img src="https://github-readme-stats-one-bice.vercel.app/api?username=quangdatltw&count_private=true&theme=tokyonight&show_icons=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" height="170px" /> 
-<img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=quangdatltw&layout=compact&langs_count=8&theme=tokyonight&role=OWNER,COLLABORATOR" height="170px" />
+<img src="https://github-readme-stats-one-bice.vercel.app/api?username=quangdatltw&count_private=true&theme=tokyonight&show_icons=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" height="175px" /> 
+<img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=quangdatltw&layout=compact&langs_count=8&theme=tokyonight&role=OWNER,COLLABORATOR" height="175px" />
 <p>
 
 
